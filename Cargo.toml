@@ -1,0 +1,10 @@
+[package]
+name = "experiments"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[[bin]]
+name="exp_1"
+path="exp_1.rs"
